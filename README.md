@@ -1,3 +1,7 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>  
+     
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
