@@ -42,11 +42,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bathulapraka&show_icons=true&locale=en&layout=compact" alt="bathulapraka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrakashBathula88&show_icons=true&locale=en&layout=compact" alt="PrakashBathula88" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bathulapraka&show_icons=true&locale=en" alt="bathulapraka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrakashBathula88&show_icons=true&locale=en" alt="bathulapraka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bathulapraka&" alt="bathulapraka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashBathula88&" alt="PrakashBathula88" /></p>
 
 
 ### ✍️ Random Dev Quote
