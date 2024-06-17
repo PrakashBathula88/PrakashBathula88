@@ -12,7 +12,7 @@
 - 💬 Ask me about **javascript,html5,css,react.js,firebase**
 
 - 📫 How to reach me **bathulaprakash406@gmail.com**
-- Portfolio - **prakashbathula88.github.io**
+- Portfolio - **https://prakashbathula88.github.io/**
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
